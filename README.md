@@ -20,5 +20,5 @@ isbn="978-3-030-00934-2"
 The model and the code is also used to generate the results presented at our more recent paper titled "Utilizing Machine Learning for Image Quality Assessment for Reflectance Confocal Microscopy" that will be published at [Journal of Investigative Dermatology](https://www.jidonline.org/). The paper link will be made available soon. 
 
 We will make the model and the corresponding code available to public after the paper the technical paper explaining the algorithm will be published. 
-
-Please create an issue for further inquiries.
+We are working on with our institute's technology office to make the model and the corresponding code available to public. 
+Until the code and the model will be made publicly available, -for academic use querries- please contact at kosek@mskcc.org. 
